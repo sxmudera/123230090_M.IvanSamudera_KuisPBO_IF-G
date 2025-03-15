@@ -8,13 +8,13 @@ package pkg123230090_m.ivansamudera_kuispbo_if.g;
  *
  * @author ivans
  */
-public class IvanSamudera_KuisPBO_IFG {
+public class Main {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Login l = new Login();
     }
     
 }
